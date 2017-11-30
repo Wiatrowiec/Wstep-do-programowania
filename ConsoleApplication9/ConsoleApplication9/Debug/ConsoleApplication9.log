@@ -1,0 +1,18 @@
+﻿  ConsoleApplication9.cpp
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(15): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(39): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(48): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(55): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(68): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(82): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(120): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(133): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(146): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(183): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(213): error C2601: "najmniejszy_macierzy1": definicje funkcji lokalnych są niedozwolone
+  c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(199): note: ten wiersz zawiera znak „{”, który nie został jeszcze dopasowany
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(235): error C2601: "main": definicje funkcji lokalnych są niedozwolone
+  c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(199): note: ten wiersz zawiera znak „{”, który nie został jeszcze dopasowany
+c:\users\cezar\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(199): fatal error C1075: napotkano koniec pliku przed pozostawionym dopasowaniem nawias klamrowy "{"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(360,5): error MSB6006: Polecenie „CL.exe” zakończone przez kod 2.
